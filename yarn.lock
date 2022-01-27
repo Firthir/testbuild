@@ -3142,6 +3142,11 @@
     "semver-compare" "^1.0.0"
     "sprintf-js" "^1.1.2"
 
+"rpm@^0.0.0":
+  "integrity" "sha1-tRnJzG60PchVdrM24/vgkorN8V4="
+  "resolved" "https://registry.npmjs.org/rpm/-/rpm-0.0.0.tgz"
+  "version" "0.0.0"
+
 "run-async@^2.4.0":
   "integrity" "sha512-tvVnVv01b8c1RrA6Ep7JkStj85Guv/YrMcwqYQnwjsAS2cTmmPGBBjAjpCW7RrSodNSoE2/qg9O4bceNvUuDgQ=="
   "resolved" "https://registry.npmjs.org/run-async/-/run-async-2.4.1.tgz"
